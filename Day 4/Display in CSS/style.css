@@ -1,0 +1,49 @@
+.overflow{
+    border: 2px solid blue;
+    height:200px;
+    width: 200px;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+
+}
+
+.i{
+    border: 2px solid black;
+    display: inline;
+    height: 200px;
+    width: 200px;
+}
+
+.j{
+    border: 2px solid purple;
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+
+.k{
+    border: 2px solid blue;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+.div{
+
+    border: 2px solid red;
+}
+
+.span{
+    border: 2px solid purple;
+    height: 200px;
+    width: 200px;
+}
+
+.img{
+    border: 2px solid purple;
+    height: 200px;
+    width: 200px;
+
+
+}
